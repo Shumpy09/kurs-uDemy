@@ -40,3 +40,5 @@ while True:
     except StopIteration:
         print("all values have been generated")
         break
+
+# test
