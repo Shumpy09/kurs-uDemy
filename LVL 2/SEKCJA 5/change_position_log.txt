@@ -1,0 +1,12 @@
+--------------------
+Function "ChangePosition" started at: 2021-05-06T03:05:23.648107
+Following arguments were used:
+Michael Salesman
+
+Function returned Salesman
+--------------------
+Function "ChangePosition" started at: 2021-05-06T03:05:23.650106
+Following arguments were used:
+Anke Manager
+
+Function returned Manager
