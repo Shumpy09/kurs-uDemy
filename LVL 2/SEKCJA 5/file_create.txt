@@ -1,0 +1,4 @@
+--------------------
+Action FILE CREATE executed on C:\Users\Samsung\Desktop\Python\uDemy\LVL 2\SEKCJA 5\dummy_file.txt on 2021-05-06 04:03:44
+--------------------
+Action FILE CREATE executed on C:\Users\Samsung\Desktop\Python\uDemy\LVL 2\SEKCJA 5\dummy_file.txt on 2021-05-06 04:03:44
